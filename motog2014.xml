@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+        <project path="device/motorola/msm8226-common" name="motog2014devteam/android_device_motorola_msm8226-common" remote="github" revision="lineage-15.1" />
+        <project path="kernel/motorola/msm8226" name="motog2014devteam/android_kernel_motorola_msm8226" remote="github" revision="lineage-15.1" />
+        <project path="vendor/motorola" name="motog2014devteam/proprietary_vendor_motorola" remote="github" revision="lineage-15.1" />
+		<!-- DEVICE -->
+        <project path="device/motorola/titan" name="motog2014devteam/android_device_motorola_titan" remote="github" revision="lineage-15.1" />
+        <project path="device/motorola/thea" name="motog2014devteam/android_device_motorola_thea" remote="github" revision="lineage-15.1" />
+        <!--  <project path="device/motorola/falcon" name="android_device_motorola_falcon" remote="github" revision="lineage-15.1" /> -->
+</manifest>
